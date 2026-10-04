@@ -3,5 +3,3 @@
 ### <p align="center"><i>Replacing the Galvani Potential with a Boltzmann Geometric State Equation for Next-Gen Battery Operation and Reduced-Gravity Molten Salt Electrolysis. (Lean 4 and Python)</i>
 
 ### <p align="center">🚧 README CURRENTLY UNDER CONSTRUCTION 🚧
-
-$$\Phi(\mathbf{r}) = \int \rho_s(\mathbf{r}') v_{shell}(\mathbf{r} - \mathbf{r}') \, d^3r'$$
