@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite this research as follows."
+authors:
+  - name: "Jonathan ƒ(n)"
+title: "Goodbye to (ϕ) - Replacing the Galvani Potential with a Boltzmann Geometric State Equation for Next-Gen Battery Operation and Reduced-Gravity Molten Salt Electrolysis (Lean 4 and Python)"
+version: 1.0.0
+doi: 10.5281/zenodo.23130582
+date-released: 2026-10-04
