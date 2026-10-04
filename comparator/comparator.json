@@ -1,0 +1,10 @@
+{
+  "challenge": "Challenge.lean",
+  "solution": "Solution.lean",
+  "theorems": [
+    "structural_boltzmann_form",
+    "temperature_scaling_effect",
+    "concentration_monotonic_density",
+    "convolution_density_bound"
+  ]
+}
